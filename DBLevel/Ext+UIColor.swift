@@ -9,4 +9,5 @@ import UIKit
 extension UIColor {
     static let backgroundBlack = UIColor(red: 31/255, green: 30/255, blue: 33/255, alpha: 1)
     static let pincExtColor = UIColor(red: 223/255, green: 44/255, blue: 87/255, alpha: 1)
+    static let lightPinkExtColor = UIColor(red: 229/255, green: 83/255, blue: 87/255, alpha: 0.3)
 }
